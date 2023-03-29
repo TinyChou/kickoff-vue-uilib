@@ -1,6 +1,6 @@
 {
   "name": "@tinychou/kickoff-vue-uilib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "kickoff vue ui lib",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -33,5 +33,8 @@
   "files": [
     "dist",
     "README.md"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
