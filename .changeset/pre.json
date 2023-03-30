@@ -1,0 +1,8 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@tinychou/kickoff-vue-uilib": "0.0.2"
+  },
+  "changesets": []
+}
